@@ -452,3 +452,6 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+/SecurityHeadersRazorApp/PiranhaWeb.db-wal
+/SecurityHeadersRazorApp/PiranhaWeb.db-shm
+/SecurityHeadersRazorApp/PiranhaWeb.db
